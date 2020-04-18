@@ -1,5 +1,5 @@
 # Cadastro_PHP7
-<h3>Sistema de cadastro em PHP_7</h3>
+<h3>CRUD PHP_7</h3>
 
 <h4>Foi utilizado:</h4>
 <ul>
